@@ -52,7 +52,7 @@ return [
     |
     */
 
-    'url' => env('APP_URL', 'http://wb.cc'),
+    'url' => env('APP_URL', 'http://weibo.test'),
 
     'asset_url' => env('ASSET_URL', null),
 
